@@ -125,7 +125,6 @@
 		3DA157B021475C7F0069DFB0 /* A */ = {
 			isa = PBXGroup;
 			children = (
-				3D96834D2147649600613437 /* Targets */,
 				3DA157E621475E570069DFB0 /* A */,
 				3DA157B121475C7F0069DFB0 /* AppDelegate.h */,
 				3DA157B221475C7F0069DFB0 /* AppDelegate.m */,
@@ -162,6 +161,7 @@
 		3DA157E621475E570069DFB0 /* A */ = {
 			isa = PBXGroup;
 			children = (
+				3D96834D2147649600613437 /* Targets */,
 				3DA157E721475E570069DFB0 /* AViewController.h */,
 				3DA157E821475E570069DFB0 /* AViewController.m */,
 			);
