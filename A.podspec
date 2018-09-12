@@ -137,5 +137,5 @@ Pod::Spec.new do |s|
   # s.dependency "BLAPIManagers"
   # s.dependency "BLMediator"
     s.dependency "CTMediator"
-    s.dependency "B_Category", :git => 'git@github.com:sunyiyue/B_Category.git'
+    s.dependency "B_Category", '~> 1'
 end
